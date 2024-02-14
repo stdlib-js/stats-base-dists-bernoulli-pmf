@@ -65,13 +65,13 @@ where `0 <= p <= 1` is the success probability.
 ## Usage
 
 ```javascript
-import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-pmf@esm/index.mjs';
+import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-pmf@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-pmf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-pmf@v0.2.0-esm/index.mjs';
 ```
 
 #### pmf( x, p )
@@ -140,7 +140,7 @@ y = mypmf( 0.5 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-pmf@esm/index.mjs';
+import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-pmf@v0.2.0-esm/index.mjs';
 
 var p;
 var x;
