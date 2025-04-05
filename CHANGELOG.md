@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-04-05)
+
+<section class="features">
+
+### Features
+
+-   [`54ea642`](https://github.com/stdlib-js/stdlib/commit/54ea64289b0660999c9a9becc440882cca91453a) - add C implementation for `stats/base/dists/bernoulli/pmf` [(#3974)](https://github.com/stdlib-js/stdlib/pull/3974)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3418](https://github.com/stdlib-js/stdlib/issues/3418)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`54ea642`](https://github.com/stdlib-js/stdlib/commit/54ea64289b0660999c9a9becc440882cca91453a) - **feat:** add C implementation for `stats/base/dists/bernoulli/pmf` [(#3974)](https://github.com/stdlib-js/stdlib/pull/3974) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
 
@@ -25,10 +48,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
