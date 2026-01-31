@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-01-31)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7b6aa5d`](https://github.com/stdlib-js/stdlib/commit/7b6aa5da510d61fdc069869e35128fe60e06b6f0) - **bench:** refactor to use string interpolation in `stats/base/dists/bernoulli` [(#9992)](https://github.com/stdlib-js/stdlib/pull/9992) _(by Lokesh Ranjan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Lokesh Ranjan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-28)
